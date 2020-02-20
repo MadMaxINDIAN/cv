@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(150, 248, 232);
+}
+hr {
+    background-color: white;
+}
+.button {
+    width: 200px;
+    height: 20px;
+    background-color: rgb(42, 173, 145);
+    color: blanchedalmond;
+}
+.button:hover {
+    background-color: grey;
+}
